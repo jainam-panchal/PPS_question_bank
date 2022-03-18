@@ -25,7 +25,9 @@ Saturday using switch statement.</a>
   
 <a href = "https://github.com/jainam-panchal/PPS_question_bank/blob/main/38.c">38. Write a program to concatenate two strings without using built
   in function.</a>
- 
+  
+<a href = "https://github.com/jainam-panchal/PPS_question_bank/blob/main/39.c">39. Write a C Program to check whether the given number is prime or not.</a>
+  
 <a href = "https://github.com/jainam-panchal/PPS_question_bank/blob/main/42.c">42. Write a program to do swapping of two elements using function with two
 pointers as arguments.</a>
 
