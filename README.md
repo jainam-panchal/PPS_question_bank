@@ -1,4 +1,4 @@
-<h1>Code Solution for KPGU University Question Bank Of PPS I</h1>
+<h1>Code Solution for KPGU University Question Bank Of Subject: PPS I</h1>
 <h3>Each question is redirect to answer. In order to view answer click on Question. </h3>
 <h4><a href = "https://github.com/jainam-panchal/PPS_question_bank/blob/main/QuestionBank.pdf">--> Quesiton Bank PDF :)</h4>
   
