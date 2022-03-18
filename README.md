@@ -1,5 +1,5 @@
 <h1>Code Solution for KPGU University Question Bank Of PPS I</h1>
-<h3>Each question is direct redirect. In order to view answer click on Question. </h3>
+<h3>Each question is redirect to answer. In order to view answer click on Question. </h3>
 <h4><a href = "https://github.com/jainam-panchal/PPS_question_bank/blob/main/QuestionBank.pdf">--> Quesiton Bank PDF :)</h4>
   
 <a href = "https://github.com/jainam-panchal/PPS_question_bank/blob/main/15.c">15. Write a C program to convert Celsius to Fahrenheit and vice versa</a>
