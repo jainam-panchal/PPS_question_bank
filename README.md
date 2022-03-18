@@ -48,6 +48,9 @@ string.
 the 2 numbers. Call the function in main().</a>
 
 <a href = "https://github.com/jainam-panchal/PPS_question_bank/blob/main/62.c">62. Write a function to swap 2 numbers.</a>
+  
+<a href = "https://github.com/jainam-panchal/PPS_question_bank/blob/main/63.c">63. Write a function in the program to return 1 if number passed is prime
+  otherwise return 0.</a>
 
 <a href = "https://github.com/jainam-panchal/PPS_question_bank/blob/main/75.c">75. Write a program to do swapping of two elements using function with two
 pointers as arguments.</a>
