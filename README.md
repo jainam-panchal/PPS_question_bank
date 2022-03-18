@@ -32,6 +32,9 @@ Saturday using switch statement.</a>
 pointers as arguments.</a>
 
 <a href = "https://github.com/jainam-panchal/PPS_question_bank/blob/main/43.c">43. Write a function program to find whether the string is palindrome or not.</a>
+  
+<a href = "https://github.com/jainam-panchal/PPS_question_bank/blob/main/46.c">46. Write a program to accept a string and count the number of vowels present in a
+string.
 
 <a href = "https://github.com/jainam-panchal/PPS_question_bank/blob/main/47.c">47. Write a program to find out the largest of an array.</a>
 
