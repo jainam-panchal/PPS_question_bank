@@ -22,7 +22,10 @@ Saturday using switch statement.</a>
 <a href = "https://github.com/jainam-panchal/PPS_question_bank/blob/main/35.c">35. Write a C program to multiply two N X N Matrix.</a>
   
 <a href = "https://github.com/jainam-panchal/PPS_question_bank/blob/main/37.c">37. Write a program to reverse the input string.</a>
-
+  
+<a href = "https://github.com/jainam-panchal/PPS_question_bank/blob/main/38.c">38. Write a program to concatenate two strings without using built
+  in function.</a>
+ 
 <a href = "https://github.com/jainam-panchal/PPS_question_bank/blob/main/42.c">42. Write a program to do swapping of two elements using function with two
 pointers as arguments.</a>
 
