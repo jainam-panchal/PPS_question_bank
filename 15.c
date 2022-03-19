@@ -10,7 +10,7 @@ int main(){
 	    printf("Celsius = ");
 	    scanf("%f",&c);
 	
-	    f=(1.5*c)+32;
+	    f=(c * 9.0/5.0 )+32;
 	
 	    printf("Fehrenheit = %f\n",f);
 		}
@@ -19,7 +19,7 @@ int main(){
     	printf("Fehrenheit = ");
     	scanf("%f",&f);
 
-    	c = ((f-32)*5)/9;
+    	c = ((f-32)*5)/9.0;
 
     	printf("Celsius = %f\n",c);
     }
