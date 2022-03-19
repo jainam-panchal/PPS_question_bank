@@ -69,3 +69,5 @@ then store it into o.c file and if it is even then store it into e.c file.</a>
 <a href = "https://github.com/jainam-panchal/PPS_question_bank/blob/main/90.c">90. WAP to draw a line using C graphics.</a>
   
 <a href = "https://github.com/jainam-panchal/PPS_question_bank/blob/main/92.c">92. WAP to draw a point on screen.</a>
+  
+<a href = "https://github.com/jainam-panchal/PPS_question_bank/blob/main/93.c">93. C graphics program to draw a Rectangle.</a>
