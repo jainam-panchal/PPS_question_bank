@@ -15,6 +15,8 @@
 <a href = "https://github.com/jainam-panchal/PPS_question_bank/blob/main/27.c">27. Write a program in ‘C’ to print the following pattern.</a>
 
 <a href = "https://github.com/jainam-panchal/PPS_question_bank/blob/main/28.c">28. Write a program to print the following pattern.</a>
+  
+<a href = "https://github.com/jainam-panchal/PPS_question_bank/blob/main/31.c">31. Write a program to print the following pattern.</a>
 
 <a href = "https://github.com/jainam-panchal/PPS_question_bank/blob/main/32.c">32. Write a C program to read numbers 1 to 7 and print relatively day Sunday to
 Saturday using switch statement.</a>
