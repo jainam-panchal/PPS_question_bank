@@ -55,6 +55,9 @@ the 2 numbers. Call the function in main().</a>
 <a href = "https://github.com/jainam-panchal/PPS_question_bank/blob/main/75.c">75. Write a program to do swapping of two elements using function with two
 pointers as arguments.</a>
 
+<a href = "https://github.com/jainam-panchal/PPS_question_bank/blob/main/75.c">78. Define a structure data type called time_struct containing three member’s
+integer hours, minutes, second. Develop a program that would assign values to individual member and display the time in following format : HH:MM:SS
+  
 <a href = "https://github.com/jainam-panchal/PPS_question_bank/blob/main/82.c">82. Write a C Program which reads numbers from the user. If the number is odd
 then store it into o.c file and if it is even then store it into e.c file.</a>
 
